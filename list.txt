@@ -1,6 +1,5 @@
 Próximas Cons
 —---------------------------—
-H-c0n 8-9 Feb (Madrid)
 Morteruelo 22-23 Feb (Cuenca)
 FAQin 1-2 Mar (Madrid)
 Hack&Beers 0day 23 Mar (Córdoba)
