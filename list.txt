@@ -1,6 +1,5 @@
 Próximas Cons
 —---------------------------—
-FAQin 1-2 Mar (Madrid)
 Hack&Beers 0day 23 Mar (Córdoba)
 RootedCON 28-30 Mar (Madrid)
 JASYP 26-27 Abr (Granada)
