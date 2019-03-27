@@ -1,6 +1,5 @@
 Próximas Cons
 —---------------------------—
-Hack&Beers 0day 23 Mar (Córdoba)
 RootedCON 28-30 Mar (Madrid)
 Bsides 12 Abr (Barcelona)
 Conpilar 12-13 Abr (Zaragoza)
