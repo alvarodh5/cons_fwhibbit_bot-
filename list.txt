@@ -1,13 +1,9 @@
 Próximas Cons
 —---------------------------—
-Hack&Beers 0day 23 Mar (Córdoba)
-RootedCON 28-30 Mar (Madrid)
-Bsides 12 Abr (Barcelona)
-Conpilar 12-13 Abr (Zaragoza)
-viCON 12-13 Abr (Vigo)
 Mundo Hacker Day 24 Abr (Madrid)
 JASYP 26-27 Abr (Granada)
 OSINT City 26-27 Abr (Sevilla)
+X1Red+Segura 11-12 May (Madrid)
 uad360 7-8 Jun (Málaga)
 C1b3rwall 17-20 Jun (Ávila) 
 EuskalHack 21-22 Jun (Donosti)
