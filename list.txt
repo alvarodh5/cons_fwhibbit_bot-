@@ -1,4 +1,4 @@
-Próximas Cons
+ Próximas Cons
 —---------------------------—
 Mundo Hacker Day 24 Abr (Madrid)
 JASYP 26-27 Abr (Granada)
@@ -10,3 +10,4 @@ uad360 7-8 Jun (Málaga)
 C1b3rwall 17-20 Jun (Ávila) 
 EuskalHack 21-22 Jun (Donosti)
 r2con 4-7 Sep (Barcelona)
+HoneyCon- 4-9 Nov (Guadalajara)
