@@ -1,13 +1,12 @@
- Próximas Cons
-—---------------------------—
-Mundo Hacker Day 24 Abr (Madrid)
-JASYP 26-27 Abr (Granada)
-OSINT City 26-27 Abr (Sevilla)
+Pr�ximas Cons
+---------------------------
 BufferHack 7 May (Madrid)
 Isaca Roadshow Bilbao 8-11 May (Bilbao)
 X1Red+Segura 11-12 May (Madrid)
 uad360 7-8 Jun (Málaga)
-C1b3rwall 17-20 Jun (Ávila) 
+C1b3rwall 17-20 Jun (�vila) 
 EuskalHack 21-22 Jun (Donosti)
 r2con 4-7 Sep (Barcelona)
+Navaja Negra 3-5 Oct (Albacete)
 HoneyCon- 4-9 Nov (Guadalajara)
+No cON Name 15-16 Nov (Barcelona)
