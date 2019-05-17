@@ -1,8 +1,5 @@
 Proximas Cons
 ---------------------------
-BufferHack 7 May (Madrid)
-Isaca Roadshow Bilbao 8-11 May (Bilbao)
-X1Red+Segura 11-12 May (Madrid)
 uad360 7-8 Jun (Malaga)
 C1b3rwall 17-20 Jun (Avila) 
 EuskalHack 21-22 Jun (Donosti)
