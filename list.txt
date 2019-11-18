@@ -1,7 +1,8 @@
 Proximas Cons
 ---------------------------
 
-MonterueloCon 28-29 Febrero
-Rooted 5-7 de Marzo
-ViCon 3-4 de Abril
-HoneyCon 2-7 de Noviembre
+H-Con 31-1 de Enero/Febrero (Madrid)
+MonterueloCon 28-29 Febrero (Cuenca)
+Rooted 5-7 de Marzo (Madrid)
+ViCon 3-4 de Abril (Vigo)
+HoneyCon 2-7 de Noviembre (Guadalajara)
