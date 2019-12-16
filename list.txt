@@ -1,8 +1,5 @@
 Proximas Cons
 ---------------------------
-
-CyberCamp 27-30 de Noviembre (Valencia)
-Jornadas CCN-Cert Diciembre 10-11-12 (Madrid)
 Sh3llCON 24-25 de Enero (Santander)
 H-Con 31-1 de Enero/Febrero (Madrid)
 MonterueloCon 28-29 Febrero (Cuenca)
