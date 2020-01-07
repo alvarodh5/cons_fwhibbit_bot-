@@ -1,7 +1,9 @@
 Proximas Cons
 ---------------------------
+Ciberseg 22-23 de Enero (Madrid)
 Sh3llCON 24-25 de Enero (Santander)
 H-Con 31-1 de Enero/Febrero (Madrid)
+HackOn 6 de Febrero (Madrid)
 MonterueloCon 28-29 Febrero (Cuenca)
 Rooted 5-7 de Marzo (Madrid)
 ViCon 3-4 de Abril (Vigo)
