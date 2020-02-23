@@ -1,6 +1,5 @@
 Proximas Cons
 ---------------------------
-HackOn 6 de Febrero (Madrid)
 MonterueloCon 28-29 Febrero (Cuenca)
 Rooted 5-7 de Marzo (Madrid)
 ViCon 3-4 de Abril (Vigo)
