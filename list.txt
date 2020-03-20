@@ -1,9 +1,8 @@
 Proximas Cons
 ---------------------------
-MonterueloCon 28-29 Febrero (Cuenca)
-Rooted 5-7 de Marzo (Madrid)
-ViCon 3-4 de Abril (Vigo)
-JASYP 17-18 Abril (Granada)
-CONPilar 8-9 Mayo (Zaragoza)
-Tapas&Hack 14 de Mayo (Valladolid)
-HoneyCon 2-7 de Noviembre (Guadalajara)
+FluCON 27 de marzo (Online)
+JASYP 17-18 abril (Granada)
+CONPilar 8-9 mayo (Zaragoza)
+Tapas&Hack 14 de mayo (Valladolid)
+HoneyCon 2-7 de noviembre (Guadalajara)
+Navaja Negra 1-3 de octubre (Albacete)
