@@ -1,5 +1,6 @@
 Proximas Cons
 ---------------------------
+8.8 Solidaria 26 de junio (Online)
 DojoConf Panamá 9-12 de julio (Online)
 IntelCon 27-31 de julio (Online)
 DragonJAR Security Conference 5-6 de septiembre (Manizales, Colombia)
