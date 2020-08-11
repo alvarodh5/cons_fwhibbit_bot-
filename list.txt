@@ -1,9 +1,8 @@
 Proximas Cons
 ---------------------------
-8.8 Las Vegas 12 de agosto (Online)
-NotPinkCon 29 de agosto (Online)
-DragonJAR Security Conference 4-6 de septiembre (Online)
-Ekoparty 24-26 de septiembre (Online)
-Tizona 16-18 de octubre (Burgos)
-World Party 2020 30-31 de octubre (Madrid)
-HoneyCon 2-7 de noviembre (Guadalajara)
+8.8 Las Vegas 12 de agosto (Online) - https://www.8dot8.org/8-8-las-vegas/
+NotPinkCon 29 de agosto (Online) - https://notpinkcon.org/
+DragonJAR Security Conference 4-6 de septiembre (Online) - https://www.dragonjarcon.org/
+Ekoparty 24-26 de septiembre (Online) - https://ekoparty.org/
+Tizona 16-18 de octubre (Burgos) - https://www.tizonaconf.com/
+HoneyCon 2-7 de noviembre (Guadalajara) - https://honeycon.eu/
