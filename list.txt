@@ -1,5 +1,10 @@
 Proximas Cons
 ---------------------------
+<<<<<<< Updated upstream
 World.Party 20-29 de noviembre (Online) - https://worldparty.hackmadrid.org/
 8.8 México 10 de diciembre (Online) - https://www.8dot8.org/mexico/
+=======
+8.8 México 10 de diciembre (Online) - https://www.8dot8.org/mexico/
+C0r0n4Con 11-13 de diciembre (Online) - https://c0r0n4con.com/
+>>>>>>> Stashed changes
 MorterueloCON 26 de febrero (Online) - https://www.morteruelo.net/ 
